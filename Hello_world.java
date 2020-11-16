@@ -1,4 +1,4 @@
-
+//Demo class created
 class Demo{
   Static public void main(String args[])
   {
